@@ -1,0 +1,37 @@
+p {
+    color: white;
+    background: green;
+    font-size: 50px;
+    font-style: italic;
+}
+
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: green;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid red;
+    /* float: left; */
+    /* position: relative; */
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+
+}
+
+/* div {
+    width: 100px;
+    height: 100px;
+    background: green;
+
+} */
+
+/* #box1 {
+    width: 100px;
+    height: 100px;
+    background: green;
+
+} */
